@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## The Numbers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=calm&layout=compact)
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=calm)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=calm&hide=stars,contribs)
 
