@@ -1,7 +1,5 @@
-### Hello World 👋
-Khaled Al-Amoodi
-I code for the web. I craft for humans.
-I'm a software developer and PhD candidate based in Edmonton, Canada specializing in building and designing websites and applications.
+# Hello World 👋
+My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in Edmonton, Canada specializing in building and designing websites and applications.
 <!--
 **kayloody/kayloody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=calm)
+
