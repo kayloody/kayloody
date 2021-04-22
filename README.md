@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello World 👋
+Khaled Al-Amoodi
+I code for the web. I craft for humans.
+I'm a software developer and PhD candidate based in Edmonton, Canada specializing in building and designing websites and applications.
 <!--
 **kayloody/kayloody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
