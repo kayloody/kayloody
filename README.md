@@ -1,7 +1,7 @@
 # Hello World 👋
 My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in Edmonton, Canada specializing in building and designing websites and applications.
 
-## 🤹🏼 Skills
+## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@ My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in
 ![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-## 🔢 The Numbers
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=calm&layout=compact)
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=calm&hide=stars,contribs)
+## 📈 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=dark&layout=compact)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=dark&hide=stars,contribs)
 
