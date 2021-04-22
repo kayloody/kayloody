@@ -12,6 +12,11 @@ My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in
 ![](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-REST-cccccc?style=flat-square)
+![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe%20xd&logoColor=black)
+![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 🔢 The Numbers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=calm&layout=compact)
