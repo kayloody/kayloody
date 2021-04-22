@@ -2,7 +2,7 @@
 My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in Edmonton, Canada specializing in building and designing websites and applications.
 
 ## 🤹🏼 Skills
-![](https://img.shields.io/badge/-React?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 
 ## 🔢 The Numbers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=calm&layout=compact)
