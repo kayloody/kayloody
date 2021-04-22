@@ -17,6 +17,8 @@ My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe%20xd&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ## 🔢 The Numbers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=calm&layout=compact)
