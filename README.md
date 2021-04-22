@@ -3,8 +3,8 @@ My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in
 
 ## 🤹🏼 Skills
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=black)
-![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=black)
+![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=react&logoColor=black)
 
 ## 🔢 The Numbers
