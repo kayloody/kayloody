@@ -22,5 +22,5 @@ My name is Khaled Al-Amoodi. I'm a software developer and PhD candidate based in
 
 ## 📈 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayloody&show_icons=true&theme=dark&layout=compact)
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=dark&hide=stars,contribs)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayloody&show_icons=true&theme=dark)
 
